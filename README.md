@@ -1,4 +1,8 @@
-# Synapse Labs - AI Labs
+<p align="center">
+  <img src="banner.png" alt="Synapse Labs Banner">
+</p>
+
+# Synapse AI Labs
 
 Welcome to Synapse Labs, your gateway to cutting-edge AI tools! 
 > [!IMPORTANT]
@@ -36,3 +40,4 @@ Start unleashing the power of AI today!
 
 ---
 For any inquiries or support, please contact us [via telegram](https://t.me/synapse_labs)
+This project is led by Synapse Research
